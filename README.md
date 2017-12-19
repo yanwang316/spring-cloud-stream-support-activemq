@@ -6,7 +6,7 @@ The ActiveMQ Binder use 'Virtual Topic' feature to implement the Group and Parti
 so use it after make sure you open the function in ActiveMQ
 
 Any Configuration Properties, See properties class
-com.centaline.cloud.stream.binder.activemq.properties.ActiveMQExtendedBindingProperties.java
+com.centaline.cloud.stream.binder.activemq.properties.ActiveMQExtendedBindingProperties
 
 Any Configuration, See configuration class
-com.centaline.cloud.stream.binder.activemq
+com.centaline.cloud.stream.binder.activemq.config.ActiveMQMessageChannelBinderConfiguration
