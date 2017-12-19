@@ -1,0 +1,2 @@
+activemq:\
+com.centaline.cloud.stream.binder.activemq.config.ActiveMQMessageChannelBinderConfiguration
